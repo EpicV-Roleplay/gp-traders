@@ -18,8 +18,3 @@ server_scripts {
     'server.lua',
     'config.lua'
 }
-
-dependency 'qb-core'
-dependency 'qb-inventory'
-dependency 'qb-menu'
-dependency 'qb-target'
